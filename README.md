@@ -42,7 +42,7 @@ NLPVision4Comics/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/NLPVision4Comics.git
+git clone https://github.com/reiyonna/NLPVision4Comics.git
 cd NLPVision4Comics
 pip install -r requirements.txt
 ```
