@@ -1,7 +1,5 @@
 # Comic Scribe
 
-*Automated Manga Translation Pipeline*
-
 This project is an end-to-end pipeline that translates manga/comics using Computer Vision + NLP.
 It runs through **4 main stages**:
 
